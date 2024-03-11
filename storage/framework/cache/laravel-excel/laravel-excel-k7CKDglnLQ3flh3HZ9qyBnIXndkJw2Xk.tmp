@@ -1,0 +1,3 @@
+company_id	project_id	budget_id	budget_type_id	expense_type_id	movement_type_id	year	month_id	amount	qty	creator_user_id	status	created_at	updated_at
+1	16	2	3	2	2	2024	10	6000	10	1	1	2024-01-22T07:49:16.000000Z	2024-01-22T12:51:31.000000Z
+2	16	4	4	1	2	2024	15	5000	5	1	1	2024-01-23T07:43:17.000000Z	2024-01-23T07:43:17.000000Z
